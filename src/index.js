@@ -1,6 +1,7 @@
 import React, {Component} from "react";
 import ReactDOM from "react-dom";
 import Form from './Form';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 class App extends Component {
     render() {
@@ -19,9 +20,7 @@ class App extends Component {
     }
 }
 
-ReactDOM
-    .render(
-        <App/>,
-        document.querySelector('#root')
-    )
-;
+ReactDOM.render(
+    <App/>,
+    document.querySelector('#root')
+);

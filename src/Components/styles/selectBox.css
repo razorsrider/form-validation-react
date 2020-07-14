@@ -1,0 +1,23 @@
+.form-label-group {
+  margin: 0; }
+  .form-label-group label {
+    color: #aaaaaa; }
+
+.red-border {
+  border: 1px solid coral !important; }
+
+.errorText {
+  margin: 0;
+  color: coral;
+  font-size: 11px; }
+
+.col-6 {
+  margin-bottom: 16px; }
+
+#gender {
+  color: #aaaaaa;
+  background-color: #f1f1f1;
+  border: 0;
+  height: 50px; }
+
+/*# sourceMappingURL=selectBox.css.map */
