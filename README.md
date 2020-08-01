@@ -8,3 +8,5 @@ In this project I applied in the first time many technoligies according with rea
 - use PropTypes for cheking type of value in fields of form
 
 This project is deployed by address https://razorsrider.github.io/form-validation-react/
+
+The source technical task there: https://drive.google.com/file/d/1G3ZVyTukXBEGr2nJUbIIfRVrCqAXRzwx/view?usp=sharing
