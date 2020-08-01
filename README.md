@@ -7,3 +7,4 @@ In this project I applied in the first time many technoligies according with rea
 - use special version of Bootstrap for React "react-bootstrap"
 - use PropTypes for cheking type of value in fields of form
 
+This project is deployed by address https://razorsrider.github.io/form-validation-react/
